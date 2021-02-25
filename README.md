@@ -6,5 +6,6 @@
 - [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Git](https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000)
 - [Linux](http://c.biancheng.net/linux_tutorial/10/)
+- [Github Pages](https://sspai.com/post/54608)
 
 ## contents
